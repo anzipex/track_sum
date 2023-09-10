@@ -46,3 +46,9 @@ track_sum is a command-line utility that allows you to calculate the cumulative 
 35:51.291
 42:48.971
 ```
+
+---
+
+![cue_generator.jpg](cue_generator.jpg)
+
+For example, you can generate a cue file with this output time durations in online generator https://cuegenerator.net
