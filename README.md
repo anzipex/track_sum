@@ -18,6 +18,7 @@ track_sum is a command-line utility that allows you to calculate the cumulative 
 ##### Input (`input.txt`):
 
 ```
+0:00.000
 1:09.613
 5:09.813
 4:52.493
@@ -28,14 +29,14 @@ track_sum is a command-line utility that allows you to calculate the cumulative 
 4:43.093
 4:09.573
 6:57.680
-4:14.973
 ```
 
 ##### Output (`output.txt`):
 
 ```
-1:09.613
-6:19.426
+00:00.000
+01:09.613
+06:19.426
 11:11.919
 17:01.559
 20:46.892
@@ -44,5 +45,4 @@ track_sum is a command-line utility that allows you to calculate the cumulative 
 31:41.718
 35:51.291
 42:48.971
-47:03.944
 ```
